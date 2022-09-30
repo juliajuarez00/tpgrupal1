@@ -1,6 +1,26 @@
 caption{
     color: blue;
     font-size: 42px;
-    text-align: center;
+    text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    width: 100%;
+    border: 1px solid rgb(26, 19, 231) ;
+}
+th{
+    border: 1px double rgb(78, 43, 159);
+}
+th{
+    border: 6px ;
+    background-color: rgb(74, 48, 192);
+    color: azure;
+    font-size: 20;
+}
+h1{
+    color: rgb(242, 242, 245);
+    font-size: 42px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
 }
