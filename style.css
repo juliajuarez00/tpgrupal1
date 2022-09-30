@@ -7,14 +7,18 @@ caption{
 table{
     width: 100%;
     border: 1px solid rgb(26, 19, 231) ;
+    text-align: center;
+    align-self: center;
 }
 th{
     border: 1px double rgb(78, 43, 159);
+  
+    
 }
 th{
     border: 6px ;
-    background-color: rgb(74, 48, 192);
-    color: azure;
+    background-color: rgb(255, 255, 255);
+    color: rgb(1, 1, 1);
     font-size: 20;
 }
 h1{
@@ -22,5 +26,38 @@ h1{
     font-size: 42px;
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: black;
+    background-color: rgb(61, 172, 202);
+}
+.img {
+    width: 40%;
+    height: 40%;
+    color: black;
+ }
+ .img2 {
+    width: 20%;
+    height: 10%;
+
+ }
+
+ body {
+    background-color: rgba(44, 167, 195, 0.985);
+ }
+ .img3{
+    width:20%;
+    height:20%;
+}
+p{
+    text-align:left  ;
+}
+
+
+.Dia{
+    text-align: left;
+    background-color: rgb(227, 144, 19);
+    color: rgb(255, 255, 255);
+    
+}
+    
+p{
+    color: honeydew;
 }
