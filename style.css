@@ -9,12 +9,13 @@ table{
     width: 100%;
     border: 5px solid rgb(74, 132, 240);
     background-color: azure;
+    font-size: 20px;
 }
 th{
     border: 3px solid rgb(58, 21, 169);
     text-align: center;
 }
-td{
+tr{
     border: 3px solid rgb(62, 82, 230);
     text-align: center;
 }
