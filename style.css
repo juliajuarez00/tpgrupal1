@@ -4,60 +4,100 @@ caption{
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 table{
     width: 100%;
-    border: 1px solid rgb(26, 19, 231) ;
+    border: 5px solid rgb(74, 132, 240);
+    background-color: azure;
+}
+th{
+    border: 3px solid rgb(58, 21, 169);
     text-align: center;
-    align-self: center;
 }
-th{
-    border: 1px double rgb(78, 43, 159);
-  
-    
+td{
+    border: 3px solid rgb(62, 82, 230);
+    text-align: center;
 }
-th{
-    border: 6px ;
-    background-color: rgb(255, 255, 255);
-    color: rgb(1, 1, 1);
-    font-size: 20;
-}
+
 h1{
     color: rgb(242, 242, 245);
-    font-size: 42px;
+    font-size: 30px;
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(61, 172, 202);
+    margin: 5%;
 }
 .img {
-    width: 40%;
-    height: 40%;
-    color: black;
+    width: 25%;
+    height: 30%;
+    display: flex;
+    border-radius: 60%;
+    margin: 3%;
+    
+    
  }
  .img2 {
-    width: 20%;
-    height: 10%;
-
+    width: 95%;
+    height: 100%;
+    display: flex;
+    margin: left 0;;
+}
+.panel ul{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+}
+.panel li{
+    width: 100%;
+    list-style: none;
  }
 
+ div{
+    width: 100%;
+    list-style: none;
+ }
+ 
  body {
     background-color: rgba(44, 167, 195, 0.985);
- }
+    margin: auto; 
+}
  .img3{
+    
     width:20%;
     height:20%;
-}
+    float: left;
+
+} 
 p{
     text-align:left  ;
+    text-decoration: solid;
+    color: rgb(242, 242, 245);
+    font-size: 30px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 
 .Dia{
-    text-align: left;
-    background-color: rgb(227, 144, 19);
-    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(255, 254, 253);
+    color: rgb(0, 0, 0);
+    font-size: medium;
     
 }
     
 p{
-    color: honeydew;
+    color: rgb(225, 242, 245);
+    font-size: 25px;
+    text-align: justify;
+    
+
+
 }
+
+
+
+
+
+
