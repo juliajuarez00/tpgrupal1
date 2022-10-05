@@ -58,8 +58,9 @@ h1{
  }
  
  body {
-    background-color: rgba(44, 167, 195, 0.985);
-    margin: auto; 
+    background: rgb(255,125,63);
+    background: linear-gradient(277deg, rgba(255,125,63,1) 14%, rgba(4,203,252,1) 45%, rgba(42,142,195,1) 98%);
+    margin: 8px; 
 }
  .img3{
     
@@ -71,7 +72,7 @@ h1{
 p{
     text-align:left  ;
     text-decoration: solid;
-    color: rgb(242, 242, 245);
+    color: rgb(0, 0, 0);
     font-size: 30px;
     text-align:center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -88,7 +89,7 @@ p{
 }
     
 p{
-    color: rgb(225, 242, 245);
+    color: rgb(0, 0, 0);
     font-size: 25px;
     text-align: justify;
     
