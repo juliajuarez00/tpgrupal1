@@ -1,12 +1,20 @@
+body{
+
+    background: rgb(255,125,63);
+    background: linear-gradient(277deg, rgba(255,125,63,1) 14%, rgba(4,203,252,1) 45%, rgba(42,142,195,1) 98%);
+    display: block;
+    margin: 8px;
+}
 caption{
-    color: blue;
+    color: rgb(247, 31, 31);
     font-size: 70px;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-table{
+.encabezado{
+    align-content: flex-end;
     width: 100%;
-    border: 5px solid rgb(74, 132, 240);
+    border: 3px solid rgb(194, 229, 249);
 }
 th{
     border: 3px solid rgb(58, 21, 169);
@@ -16,6 +24,14 @@ td{
     border: 3px solid rgb(62, 82, 230);
     text-align: center;
 }
+.menu{
+    width: 20%;
+}
+.contenido{
+    width: 100%;
+
+}
 img{
-    width: 8% height="8%";
+    width: 75%;
+    height: 75%;
 }
