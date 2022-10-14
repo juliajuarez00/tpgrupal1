@@ -1,0 +1,120 @@
+body{
+
+    background: rgb(255,125,63);
+    background: linear-gradient(277deg, rgba(255,125,63,1) 14%, rgba(4,203,252,1) 45%, rgba(42,142,195,1) 98%);
+    display: block;
+    margin: 3px;
+}
+caption{
+    color: rgb(247, 31, 31);
+    font-size: 70px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.encabezado{
+    align-content: flex-end;
+    width: 100%;
+    border: 3px solid rgb(194, 229, 249);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+th{
+    border: 3px solid rgb(45, 151, 250);
+    text-align: center;
+}
+td{
+    border: 3px solid rgb(51, 164, 240);
+    text-align: center;
+}
+.menu{
+    width: 20%;
+}
+.contenido{
+    width: 100%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+.fiesta{
+    width: 110%;
+    margin: 5%;
+}
+img{
+    width: 75%;
+    height: 75%;
+}
+h1{
+    color: rgb(158, 249, 183);
+    font-size: 30px;
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(250, 133, 7);
+    margin: 5%;
+}
+.img {
+    width: 25%;
+    height: 30%;
+    display: flex;
+    border-radius: 60%;
+    margin: 3%;
+    
+    
+ }
+ .img2 {
+    width: 95%;
+    height: 100%;
+    display: flex;
+    margin: 3%;
+}
+.panel ul{
+    display: flex;
+    justify-content: center;
+    width: 95%;
+}
+.panel li{
+    width: 100%;
+    list-style: none;
+ }
+
+ div{
+    width: 100%;
+    list-style: none;
+ }
+ 
+ 
+ .img3{
+    
+    width:20%;
+    height:20%;
+    float: left;
+
+} 
+p{
+    text-align:left  ;
+    text-decoration: solid;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.Dia{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    
+}
+    
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: justify;
+}
+footer{
+    font-size: 20px;
+    text-align:center;
+    margin: 5%;
+}
+.piepagina{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
